@@ -22,6 +22,7 @@ public class stepDefinition {
 	@Then("^User is on Home Page$")
 	public void user_is_on_home_page(){
 		System.out.println("navigated to home page");
+		System.out.println("navigated to home page 2");
 	}
 	
 }
